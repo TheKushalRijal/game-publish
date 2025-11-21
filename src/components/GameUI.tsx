@@ -26,6 +26,11 @@ const GameUI: React.FC<GameUIProps> = ({
         <div>Balloons: {balloons}</div>
         <div>Arrows: {arrows}</div>
         <div>Level: {level}</div>
+        <div>Click for shoot</div>
+                <div>Space for sonar</div>
+                                <div>Up and Down</div>
+
+
       </div>
 
       {/* Center Message for Level Completion */}
